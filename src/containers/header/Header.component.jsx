@@ -14,6 +14,7 @@ const Header = () => {
             <Link className="secondary-button">
               Reach Us!
               <img className="right-arrow"  src={arrowRightDark} alt="svg arrow icon" />
+              <img className="header-car-background-image"  src="https://demo.xpeedstudio.com/carrental/home-v4/wp-content/uploads/sites/5/2020/06/banner_image.png" alt="" />
             </Link>
           </div>
         </div>
